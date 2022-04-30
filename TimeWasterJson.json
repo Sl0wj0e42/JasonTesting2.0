@@ -1,6 +1,6 @@
 {
-	"Username" : "bob",
-	"Password" : "1234",
+	"username" : "jeff",
+	"password" : "abcd",
 	"Ip" : "10.208.61.74:5050",
 	"LightName" : "4",
 	"Application" : null,
