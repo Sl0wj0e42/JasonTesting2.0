@@ -12,8 +12,8 @@
 	{
 		"Username" : "jack",
 		"Password" : "1234",
-		"Ip" : "asd",
-		"LightName" : "4",
+		"Ip" : "10.208.61.74:5050",
+		"LightName" : "1",
 		"Application" : null,
 		"PlayMins" : null,
 		"Score" : null,
